@@ -1,0 +1,5 @@
+{
+  "name": "SpecForge: AI Specification & Blueprint Generator",
+  "description": "Turn your idea into a complete technical spec and blueprint in minutes. Provide a brief description of your product, and optionally add details like target users and technologies, to generate a structured specification and a high-level architectural blueprint.",
+  "requestFramePermissions": []
+}
