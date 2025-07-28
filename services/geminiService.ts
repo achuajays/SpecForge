@@ -1,7 +1,7 @@
 
 import { SUPABASE_URL, SUPABASE_ANON_KEY } from '../constants';
 import type { SpecForgeFormState, Report, AiBuilderStep } from '../types';
-
+  
 const GEMINI_FUNCTION_URL = `${SUPABASE_URL}/functions/v1/gemini`;
 
 function constructPrompt(
