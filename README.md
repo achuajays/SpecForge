@@ -2,7 +2,7 @@
 # SpecForge: AI Specification & Blueprint Generator
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/user-attachments/assets/b8782a5c-5062-411a-85b1-f06b52a44bd7" alt="SpecForge Banner" width="800">
+  <img src="image.png" alt="SpecForge Banner" width="800">
 </p>
 
 <p align="center">
